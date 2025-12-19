@@ -1,11 +1,13 @@
-## Hi there
+## Hi there 👋
 
 <h2 align="center"> 👩🏻‍💻 Whoami</h2>
 <p align="center">
-  <samp> Sou estudante de Segurança da Informação na FATEC São Caetano do Sul. Durante a faculdade, trabalhei em projetos práticos envolvendo monitoramento de sistemas, gestão de logs, análise de riscos, gestão de vulnerabilidades e o uso de ferramentas de segurança. Possuo conhecimentos em sistemas operacionais, tanto Windows quanto Linux, além de habilidades em scripts básicos e boas práticas de segurança da informação. Sempre busco aplicar meu aprendizado na prática e desenvolver novas competências!
+  <samp> Sou estudante de Segurança da Informação na FATEC São Caetano do Sul, com foco em Blue Team. Utilizo aqui para documentar estudos, projetos e experimentos práticos. Sempre buscando evoluir técnica e profissionalmente.
   </samp>
+  
+------
 
-## Minhas Skills
+### 🛠️ Minhas Skills
 
 #### Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -16,3 +18,11 @@
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 #### Ferramentas de Segurança
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-1E6AE1?style=for-the-badge&logo=tenable&logoColor=white)
+
+#### Governança, Riscos e Conformidade (GRC)
