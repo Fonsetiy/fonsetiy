@@ -5,6 +5,12 @@
   <samp> Sou estudante de Segurança da Informação na FATEC São Caetano do Sul, com foco em Blue Team. Utilizo aqui para documentar estudos, projetos e experimentos práticos. Sempre buscando evoluir técnica e profissionalmente.
   </samp>
   
+<h2 align="center">
+  <a href="https://www.linkedin.com/in/julya-fonseca" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</h2>
+  
 ------
 
 #### Tecnologias 🛠️
